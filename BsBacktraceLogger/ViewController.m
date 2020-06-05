@@ -13,6 +13,8 @@
 
 @interface ViewController ()
 
+@property (nonatomic, assign) NSInteger a;
+
 @end
 
 @implementation ViewController
